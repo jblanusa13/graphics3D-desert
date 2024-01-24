@@ -1,4 +1,4 @@
-# graphics3D-desert
+# Graphics project
 This is a 3D project designed for a Graphics course. It showcases a desert environment with changing day and night cycles and three green point lights at the top of each pyramid. Additionally, there is a fish swimming in the oasis with a spotlight following its movements.<br>
 Possible functions:<br>
 Key | Function
